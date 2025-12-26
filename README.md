@@ -8,9 +8,11 @@ Stop bastardizing DID and actually read about it: https://rentry.co/DID-Research
 
 examples: i'm, we'll, it's, you're, they're, he's, she's, they'll, we're, etc.
 
+
 **there** - in, at, or to a place or location
 
 **used in a sentence**: i went there.
+
 
 **they're** - a contraction to mean they are.
 
@@ -18,23 +20,28 @@ examples: i'm, we'll, it's, you're, they're, he's, she's, they'll, we're, etc.
 
 **their** - belonging to or associated with people or things mentioned previously
 
+
 **used in a sentence**: that is their paper.
 
 **you're** - a contraction to mean you are
 
 **used in a sentence**: you're cool.
 
+
 **your** - belonging to or associated with the person or people that the speaker is addressing.
 
 **used in a sentence**: that is your paper.
+
 
 **it's** - a contraction to mean it is
 
 **used in a sentence**: it's a cat.
 
+
 **its** - belonging to or associated with a thing previously mentioned or easily identified.
 
 **used in a sentence**: its lid is missing.
+
 
 **allowed** - give permission to do something
 
