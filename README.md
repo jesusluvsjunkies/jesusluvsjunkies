@@ -10,54 +10,63 @@ examples: i'm, we'll, it's, you're, they're, he's, she's, they'll, we're, etc.
 
 
 </br>
+
 * **there** - in, at, or to a place or location
 
 **used in a sentence**: i went there.
 
 
 </br>
+
 * **they're** - a contraction to mean they are.
 
 **used in a sentence**: they're nice.
 
 
 </br>
+
 * **their** - belonging to or associated with people or things mentioned previously
   
 **used in a sentence**: that is their paper.
 
 
 </br>
+
 * **you're** - a contraction to mean you are
 
 **used in a sentence**: you're cool.
 
 
 </br>
+
 * **your** - belonging to or associated with the person or people that the speaker is addressing.
 
 **used in a sentence**: that is your paper.
 
 
 </br>
+
 * **it's** - a contraction to mean it is
 
 **used in a sentence**: it's a cat.
 
 
 </br>
+
 * **its** - belonging to or associated with a thing previously mentioned or easily identified.
 
 **used in a sentence**: its lid is missing.
 
 
 </br>
+
 * **allowed** - give permission to do something
 
 **used in a sentence**: you are not allowed to do that
 
 
 </br>
+
 * **aloud** - audibly, not silently or a whisper
 
 **used in a sentence**: why would you say that aloud?
