@@ -1,77 +1,10 @@
 ![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=850000&label=´ཀ`&abbreviated=true)
 
-Stop bastardizing DID and actually read about it: https://rentry.co/DID-Research
+I'm sane and can be trusted with a firearm. 
 
+Rivethead with beginner level experience in html/css. Big fan of technology, psychology, philosophy, and [typology](https://docs.google.com/document/d/1vUL2LnB-VLp828wnCh4GZAsBqvX4bUzfIBlACWQZye4/edit?usp=sharing)
 
+I like educating people
 
-* **contraction** - a shortened version of the spoken and written forms of a word
-
-examples: i'm, we'll, it's, you're, they're, he's, she's, they'll, we're, etc.
-
-
-</br>
-
-* **there** - in, at, or to a place or location
-
-**used in a sentence**: i went there.
-
-
-</br>
-
-* **they're** - a contraction to mean they are.
-
-**used in a sentence**: they're nice.
-
-
-</br>
-
-* **their** - belonging to or associated with people or things mentioned previously
-  
-**used in a sentence**: that is their paper.
-
-
-</br>
-
-* **you're** - a contraction to mean you are
-
-**used in a sentence**: you're cool.
-
-
-</br>
-
-* **your** - belonging to or associated with the person or people that the speaker is addressing.
-
-**used in a sentence**: that is your paper.
-
-
-</br>
-
-* **it's** - a contraction to mean it is
-
-**used in a sentence**: it's a cat.
-
-
-</br>
-
-* **its** - belonging to or associated with a thing previously mentioned or easily identified.
-
-**used in a sentence**: its lid is missing.
-
-
-</br>
-
-* **allowed** - give permission to do something
-
-**used in a sentence**: you are not allowed to do that
-
-
-</br>
-
-* **aloud** - audibly, not silently or a whisper
-
-**used in a sentence**: why would you say that aloud?
-
-
-
-
-
+* [Explaining the differences between they're/there/their & more](https://rentry.co/grammar-tutorial)
+* [Dissociative Identity Disorder research masterlist](https://rentry.co/DID-Research)
