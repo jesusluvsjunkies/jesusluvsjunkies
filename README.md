@@ -17,9 +17,9 @@
 <table>
   <td>
 <div align = center>
-my name is calvin. i'm about 2 be adult & a man
+my name is calvin. i'm about 2 be adult 
 
-pronouns are he/him, sometimes it/its.
+i am male, pronouns are he/him, sometimes it/its.
 
 dni: [anti-recovery systems](https://rentry.co/4rzp2cc7), i block freely otherwise.
 
