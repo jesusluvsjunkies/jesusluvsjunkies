@@ -21,11 +21,11 @@ my name is calvin. i'm an adult & a man
 
 pronouns are he/him, sometimes it/its.
 
-i am a huge fan of ddr [and more](https://listography.com/jesusluvsjunkies?m=6928651282)
-
 dni: [anti-recovery systems](https://rentry.co/4rzp2cc7), i block freely otherwise.
 
 byi: i do not befriend people under 16, i can be dry, iwc
+
+etc: i like many things, ask about them.
 </div>
 </td>
 </table>
