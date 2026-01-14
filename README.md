@@ -1,6 +1,32 @@
 <div align = center>
+<table>
+  <td>
 
+<div align = center>
+  
 ![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=D400FB&label=𝕍iewers&abbreviated=true)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=bf3ba2&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&redirect=true)
+
+</div>
+</td>
+</table>
+</div>
+
+<div align = center>
+<table>
+  <td>
+<div align = center>
+my name is calvin. i'm an adult & a man
+
+pronouns are he/him, sometimes it/its.
+
+i am a huge fan of ddr [and more](https://listography.com/jesusluvsjunkies?m=6928651282)
+
+dni: [anti-recovery systems](https://rentry.co/4rzp2cc7), i block freely otherwise.
+
+byi: i do not befriend people under 16, i can be dry, iwc
+</div>
+</td>
+</table>
 </div>
