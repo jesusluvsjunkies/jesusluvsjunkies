@@ -17,7 +17,7 @@
 <table>
   <td>
 <div align = center>
-my name is calvin. i'm about 2 be adult 
+my name is calvin. i'm an adult
 
 i am male, pronouns are he/him, sometimes it/its.
 
