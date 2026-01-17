@@ -1,12 +1,19 @@
+***
+**Notice to all Rentry Users**
+
+Some search engines, as well as internet service providers (ISPs) have blocked Rentry due to people abusing the site to post illegal content. While Rentry and the respective authorities usually find this content and are swift to remove it, some flew under the radar and ended up grabbing the authorities' attention. Without knowing who to contact they blocked the Rentry.Co domain. You can still access Rentry under the Rentry.org domain, and I highly recommend changing all your Rentry links to this for time being.
+
+***
+
 <div align = center>
 <table>
   <td>
 
 <div align = center>
   
-![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=D400FB&label=𝕍iewers&abbreviated=true)
+![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=36291E&label=𝕍iewers&abbreviated=true)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=bf3ba2&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&cover_image=true&theme=novatorem&show_offline=true&background_color=AC876B&interchange=true&profanity=false&bar_color=AC876B&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&redirect=true)
 
 </div>
 </td>
@@ -17,16 +24,13 @@
 <table>
   <td>
 <div align = center>
-my name is calvin. i'm an adult
-
-i am male, pronouns are he/him, sometimes it/its.
-
-dni: [anti-recovery systems](https://rentry.co/4rzp2cc7), i block freely otherwise.
-
-byi: i do not befriend people under 16, i can be dry, iwc
-
-etc: i like many things, ask about them.
+reworking give me a sec
 </div>
 </td>
 </table>
 </div>
+
+
+
+
+
