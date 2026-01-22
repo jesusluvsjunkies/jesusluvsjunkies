@@ -2,6 +2,8 @@
 
 Some search engines, as well as internet service providers (ISPs) have blocked Rentry due to people abusing the site to post illegal content. While Rentry and the respective authorities usually find this content and are swift to remove it, some flew under the radar and ended up grabbing the authorities' attention. Without knowing who to contact they blocked the Rentry.Co domain. You can still access Rentry under the Rentry.org domain, and I highly recommend changing all your Rentry links to this for time being. - From the official Rentry server.
 
+**Update**: Rentry.co has been unblocked. It may take a bit to be unblocked everywhere.
+
 ***
 
 <div align = center>
