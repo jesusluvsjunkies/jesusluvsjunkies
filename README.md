@@ -8,14 +8,18 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&cover_image=true&theme=novatorem&show_offline=true&background_color=AC876B&interchange=true&profanity=false&bar_color=AC876B&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=s4qavvcn7yuiplcduxtdoxhiy&redirect=true)
 
+
+
 [rentry](https://rentry.org/e4swuxn2)　　[atabook](https://jesusluvsjunkies.atabook.org/)　　[did info](https://rentry.org/DID-Research)
 </div>
 </td>
 </table>
 </div>
+<div align = center>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?animatedDecoration=true&idleMessage=nothin&showDisplayName=true&hideSpotify=true&borderRadius=0&bg=000000)](https://discord.com/users/1123063347592577194)
 
-
-
+</div>
 
 
 
