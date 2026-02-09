@@ -10,16 +10,10 @@
 
 
 
-[rentry](https://rentry.org/e4swuxn2)　　[atabook](https://jesusluvsjunkies.atabook.org/)　　[did info](https://rentry.org/DID-Research)
+[rentry](https://rentry.org/e4swuxn2)　　[did info](https://rentry.org/DID-Research)
 </div>
 </td>
 </table>
 </div>
-<div align = center>
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?animatedDecoration=true&idleMessage=nothin&showDisplayName=true&hideSpotify=true&borderRadius=0&bg=000000)](https://discord.com/users/1123063347592577194)
-
-</div>
-
 
 
