@@ -10,7 +10,7 @@
 
 
 
-[rentry](https://rentry.org/e4swuxn2)　　[did info](https://rentry.org/DID-Research)
+[did info](https://rentry.org/DID-Research)
 </div>
 </td>
 </table>
