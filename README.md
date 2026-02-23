@@ -16,4 +16,69 @@
 </table>
 </div>
 
+<div align = center>
+<details>
+<summary>Click Here for Commission Info</summary>
+  
+<table>
+  <td>
+<div align = center>
+  
+[Read Terms of Service before contacting](<https://docs.google.com/document/d/1c1B4TSRfijqbxHl7loy8qz0ksxQgk4akCGOPPq74Lho/edit?usp=drivesdk>)
 
+**Contact info**: [Discord](https://discord.com/users/1123063347592577194) [Email](jesusluvsjunkies@protonmail.com)
+
+**Cashapp only.** Working on other payment services at the moment.
+
+<details>
+<summary>Prices</summary>
+
+## Headshot
+**base price** - 3$
+
+**2 characters** - 6$
+
+**3 characters** - 9$
+
+**Rendering** - 3$
+
+**Detailed background** - 3$
+
+## Half-Body
+
+**Base price** - 6$
+**2 characters** - 12$
+**3 characters** - 18$
+**Rendering** - 6$
+**Detailed background** - 6$
+
+## Full-body
+
+**Base price** - 9$
+**2 characters** - 18$
+**3 characters** - 27$
+**Rendering** - 9$
+**Detailed background** - 9$
+</details>
+
+<details>
+<summary>Examples</summary>
+
+## Headshot
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8df17af7-4b1a-49e6-b004-51fbbc11d8aa" />
+
+
+## Half-Body
+<img width="1203" height="952" alt="image" src="https://github.com/user-attachments/assets/396ffe79-fd3a-4464-86d0-d217bafdd3b0" />
+
+## Full-body
+<img width="500" height="500" alt="jhfuigdfiugh" src="https://github.com/user-attachments/assets/9af34455-7717-4283-a40b-5177f78af704" />
+
+</details>
+
+</div>
+</td>
+</table>
+
+
+</div>
