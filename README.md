@@ -10,8 +10,6 @@
 
 [DID myths](https://rentry.co/did-myths)　[DID info](https://rentry.co/DID-Research)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G41UN3GK)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=0px&idleMessage=somewhere%20else)](https://discord.com/users/1123063347592577194)
 </div>
 </td>
