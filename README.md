@@ -30,6 +30,8 @@
 
 **Cashapp only.** Working on other payment services at the moment.
 
+[Slots](https://trello.com/b/tthn1MET/jlj-commissions)
+
 <details>
 <summary>Prices</summary>
 
