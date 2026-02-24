@@ -46,34 +46,45 @@
 
 **Detailed background** - 3$
 
+---
+
 ## Half-Body
 
 **Base price** - 6$
+
 **2 characters** - 12$
+
 **3 characters** - 18$
+
 **Rendering** - 6$
+
 **Detailed background** - 6$
 
+---
 ## Full-body
 
 **Base price** - 9$
+
 **2 characters** - 18$
+
 **3 characters** - 27$
+
 **Rendering** - 9$
+
 **Detailed background** - 9$
 </details>
 
 <details>
 <summary>Examples</summary>
 
-## Headshot
+### Headshot
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8df17af7-4b1a-49e6-b004-51fbbc11d8aa" />
 
 
-## Half-Body
+### Half-Body
 <img width="1203" height="952" alt="image" src="https://github.com/user-attachments/assets/396ffe79-fd3a-4464-86d0-d217bafdd3b0" />
 
-## Full-body
+### Full-body
 <img width="500" height="500" alt="jhfuigdfiugh" src="https://github.com/user-attachments/assets/9af34455-7717-4283-a40b-5177f78af704" />
 
 </details>
