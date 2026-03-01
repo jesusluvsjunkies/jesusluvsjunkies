@@ -1,6 +1,4 @@
-**If you use the bot Appy, please read this document on the creator's unprofessional behavior.**
 
-https://docs.google.com/document/d/1Vc3j--FPpcAM5wU2gNl6-q9Yq9KenKhEmzGsfO6scz4/edit?usp=sharing
 <div align = center>
 <table>
   <td>
