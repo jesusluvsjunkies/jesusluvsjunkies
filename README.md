@@ -11,7 +11,7 @@
 
 [DID myths](https://rentry.co/did-myths)　[DID info](https://rentry.co/DID-Research)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=0px&idleMessage=somewhere%20else)](https://discord.com/users/1123063347592577194)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=0px&idleMessage=somewhere%20else)](https://discordid.netlify.app/?id=1123063347592577194)
 </div>
 </td>
 </table>
