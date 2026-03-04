@@ -27,7 +27,7 @@
   
 [Read Terms of Service before contacting](<https://docs.google.com/document/d/1c1B4TSRfijqbxHl7loy8qz0ksxQgk4akCGOPPq74Lho/edit?usp=drivesdk>)
 
-**Contact info**: [Discord](https://discord.com/users/1123063347592577194) [Email](jesusluvsjunkies@protonmail.com)
+**Contact info**: [Discord](https://discordid.netlify.app/?id=1123063347592577194) [Email](jesusluvsjunkies@protonmail.com)
 
 **Cashapp only.** Working on other payment services at the moment.
 
