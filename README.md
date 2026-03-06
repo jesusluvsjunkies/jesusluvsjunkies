@@ -1,11 +1,3 @@
-**March 5th** is Dissociative Identity Disorder (DID) awareness day. This is an annual holiday meant to raise awareness about the reality of having DID, OSDD-1, and P-DID.
-
-[Read about the day here](https://news.isst-d.org/did-awareness-day-march-5/)
-
-[Learn more about DID](https://rentry.co/DID-Research)
-
-***
-
 <div align = center>
 <table>
   <td>
