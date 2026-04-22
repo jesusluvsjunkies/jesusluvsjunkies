@@ -1,5 +1,10 @@
+
+
+
 <div align="center">
-<!-- Language used here is a mix of LaTEX and html. It's a pain don't even bother -->
+
+![](https://pacificpurgatory.com/cdn/shop/files/honolulu_weather_1080x.gif?v=1687766736)
+
  <table>
   <td>
    <div align="center">
@@ -12,6 +17,8 @@
 </div>
   </td>
 </table>
+
+![](https://github.com/user-attachments/assets/66ae4c64-fcef-4d48-ad3d-c746db092e24)
 </div>
 
  </br>
