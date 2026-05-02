@@ -2,8 +2,19 @@
 
 
 <div align="center">
+<img width="736" height="260" alt="kghkjhkjjk" src="https://github.com/user-attachments/assets/f0c14a79-6682-4fe7-ad2d-21087418d5af" />
 
-![](https://pacificpurgatory.com/cdn/shop/files/honolulu_weather_1080x.gif?v=1687766736)
+
+ <table>
+  <td>
+   <div align="center">
+
+   [DID Research links](https://rentry.co/DID-Research)　[DID myths](https://rentry.co/did-myths)
+
+   **Both sites made by me and are currently under reconstruction**.
+</div>
+  </td>
+</table>
 
  <table>
   <td>
@@ -17,8 +28,7 @@
 </div>
   </td>
 </table>
-
-![](https://github.com/user-attachments/assets/66ae4c64-fcef-4d48-ad3d-c746db092e24)
+<img width="736" height="260" alt="jhjhjhjh" src="https://github.com/user-attachments/assets/72388a0b-bb94-491e-856b-3468d5f876f2" />
 </div>
 
  </br>
