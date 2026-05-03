@@ -9,7 +9,7 @@
   <td>
    <div align="center">
 
-   [DID Research links](https://rentry.co/DID-Research)　[DID myths](https://rentry.co/did-myths)
+   [DID Research links](https://did-research.carrd.co/)　[DID myths](https://rentry.co/did-myths)
 
    **Both sites made by me and are currently under reconstruction**.
 </div>
