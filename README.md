@@ -27,8 +27,33 @@
 </div>
   </td>
 </table>
-<img width="1206" height="729" alt="image" src="https://github.com/user-attachments/assets/6a485f31-269a-4d81-b626-2a684523417b" />
+<table>
+  <td>
+   <div align="center">
+
+   # my typology
+
+
+   |enneagram  |e6  |
+| ------------- | ------------- |
+| instictual variant  | sx/sp  |
+| subtype  | sx6  |
+| trifix/type  | 684  |
+| wing  | 6w5  |
+| psychosophy/ap  | flve⁽¹²¹³⁾  |
+| temperament  | 	melancholic-choleric  |
+| sloan  | 	[R]/L/Uen  |
+| aegislogy  | 	avr-sf  |
+| ornithistics  | 	[A]/V/Ian  |
+| m.e.o.w.  | 	wmoe-3  |
+
 </div>
+  </td>
+</table>
+
+
+</div>
+
 
  </br>
  
