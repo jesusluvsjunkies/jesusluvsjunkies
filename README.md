@@ -31,22 +31,42 @@
   <td>
    <div align="center">
 
+
    # my typology
 
-
-   |enneagram  |e6  |
-| ------------- | ------------- |
-| instictual variant  | sx/sp  |
-| subtype  | sx6  |
-| trifix/type  | 684  |
-| wing  | 6w5  |
-| psychosophy/ap  | flve⁽¹²¹³⁾  |
-| temperament  | 	melancholic-choleric  |
-| sloan  | 	[R]/L/Uen  |
-| aegislogy  | 	avr-sf  |
-| ornithistics  | 	[A]/V/Ian  |
-| m.e.o.w.  | 	wmoe-3  |
-
+ sorry i use niche systems since they're easier to understand.
+<table>
+  <tr>
+    <td>enneagram: e6</td>
+  </tr>
+  <tr>
+    <td>subtype: sx6</td>
+  </tr>
+   <tr>
+    <td>wing: 6w5</td>
+  </tr>
+    <tr>
+    <td>trifix: 684</td>
+  </tr>
+    <tr>
+    <td>ap / psychosophy: flve⁽¹²¹³⁾</td>
+  </tr>
+     <tr>
+    <td>temperament: melancholic-choleric</td>
+  </tr>
+   <tr>
+    <td>big 5 (sloan): [R]/L/Uen</td>
+  </tr>
+    <tr>
+    <td>aegislogy: avr-sf</td>
+  </tr>
+     <tr>
+    <td>ornithistics: [A]/V/Ian</td>
+  </tr>
+      <tr>
+    <td>m.e.o.w: wmoe-3</td>
+  </tr>
+</table>
 </div>
   </td>
 </table>
