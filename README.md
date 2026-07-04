@@ -7,7 +7,7 @@
 
    [Ponytown System Survey](https://pt-system-survey.straw.page/)
 
-   **Both sites made by me and are currently under reconstruction**.
+   **Both sites made by me & currently under reconstruction**.
 </div>
   </td>
 </table>
