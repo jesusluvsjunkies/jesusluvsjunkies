@@ -5,7 +5,7 @@
 
 # dni
 * country humans fans
-* roblox myth fans
+* roblox myth fans (**specifically** days union, alonetraveler, and morgenne fans)
 * zero day fans & tccers
 * c.ai, j.ai, polybuzz, etc users
 * pro/neu endogenic systems
