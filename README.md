@@ -8,7 +8,7 @@
 * roblox myth fans
 * zero day fans & tccers
 * c.ai, j.ai, polybuzz, etc users
-* pro/neu endo
+* pro/neu endogenic systems
 * polyminds
 * wilbur defenders
 * anyone that believes alters = source
