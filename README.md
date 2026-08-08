@@ -1,7 +1,7 @@
 # intro for people too lazy to click on my rentry
 * my name is dimitri. i'm an adult and my pronouns are he/him exclusively. yes, i get upset if you call me they/them so don't??? do that??? just call me he it's not hard
 * i am taken, insanely disordered, and an advocate for dissociative disorders.
-* do not use tone indicatord on me i don't need them.
+* do not use tone indicators on me i don't need them. no, i don't "hate" tone tags i just don't want them used on me.
 
 # dni
 * country humans fans
