@@ -18,10 +18,7 @@
 
 # iwec
 * if any of my interests are on your dni
-* enneagram community
-* the mandela catalog fans
-* cry of fear fans
-* postal fans
+* fandoms / communities of anything i like
 * anyone under 15 (i won't be your friend)
 * generally uneducated on did / believe did is a personality disorder (it's a dissociative disorder)
 
