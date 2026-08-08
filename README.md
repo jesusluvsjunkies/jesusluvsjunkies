@@ -1,38 +1,3 @@
-# intro 
-* my name is dimitri. i'm an adult and my pronouns are he/him exclusively. don't use they/them on me
-* i am taken, monogamous, and extremely disordered. i also have did.
-* do not use tone indicators on me; i don't need them. no, i don't "hate" tone tags i just don't want them used on me.
-
-# dni
-* country humans fans
-* roblox myth fans (**specifically** days union, alonetraveler, and morgenne fans)
-* zero day fans & tccers
-* c.ai, j.ai, polybuzz, etc users
-* pro/neu endogenic systems & polyminds
-* wilbur soot fans & defenders
-* anyone that believes alters = source
-* anti-recovery 
-* if you get your information on did exclusively from r/fakedisordercringe or r/systemscringe
-
-
-# iwec
-* if any of my interests are on your dni
-* fandoms / communities of anything i like
-* anyone under 15 (i won't be your friend)
-* generally uneducated on did / believe did is a personality disorder (it's a dissociative disorder)
-* if you get your information on did exclusively from carrds / rentries / social media posts
-
-# my interests
-* the mandela catalog
-* plush star fever
-* madeleine phantasms
-* cry of fear
-* pyromaniac
-* gonefishinq_
-* postal
-* faith
-* typology (enneagram + psychosophy)
-* the backrooms (kane parsons' version)
 <div align="center">
  
 ![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=2b2b2b&label=𝕍iewers&abbreviated=true)
