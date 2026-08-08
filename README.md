@@ -8,19 +8,19 @@
 * roblox myth fans (**specifically** days union, alonetraveler, and morgenne fans)
 * zero day fans & tccers
 * c.ai, j.ai, polybuzz, etc users
-* pro/neu endogenic systems
-* polyminds
+* pro/neu endogenic systems & polyminds
 * wilbur soot fans & defenders
 * anyone that believes alters = source
 * anti-recovery 
 * if you get your information on did exclusively from r/fakedisordercringe or r/systemscringe
-* if you get your information on did exclusively from carrds / rentries / social media posts
+
 
 # iwec
 * if any of my interests are on your dni
 * fandoms / communities of anything i like
 * anyone under 15 (i won't be your friend)
 * generally uneducated on did / believe did is a personality disorder (it's a dissociative disorder)
+* if you get your information on did exclusively from carrds / rentries / social media posts
 
 # my interests
 * the mandela catalog
