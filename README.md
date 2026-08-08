@@ -1,7 +1,7 @@
-# intro for people too lazy to click on my rentry
-* my name is dimitri. i'm an adult and my pronouns are he/him exclusively. yes, i get upset if you call me they/them so don't??? do that??? just call me he it's not hard
-* i am taken, insanely disordered, and an advocate for dissociative disorders.
-* do not use tone indicators on me i don't need them. no, i don't "hate" tone tags i just don't want them used on me.
+# intro 
+* my name is dimitri. i'm an adult and my pronouns are he/him exclusively. don't use they/them on me
+* i am taken, monogamous, and extremely disordered. i also have did.
+* do not use tone indicators on me; i don't need them. no, i don't "hate" tone tags i just don't want them used on me.
 
 # dni
 * country humans fans
@@ -10,12 +10,11 @@
 * c.ai, j.ai, polybuzz, etc users
 * pro/neu endogenic systems
 * polyminds
-* wilbur defenders
+* wilbur soot fans & defenders
 * anyone that believes alters = source
 * anti-recovery 
 * if you get your information on did exclusively from r/fakedisordercringe or r/systemscringe
-* if you have systems on your dni (I LITERALLY HAVE DID DIPSHIT???)
-
+* if you get your information on did exclusively from carrds / rentries / social media posts
 
 # iwec
 * if any of my interests are on your dni
