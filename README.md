@@ -1,7 +1,8 @@
 <img width="441" height="671" align="left" src="ujkiljkljkl.png" />
-<img width="300" height="150" alt="abt" src="jkljlkjhjghj.png" />
+
 <table>
 <td>
+<img width="300" height="150" alt="abt" src="jkljlkjhjghj.png" />
 <div align="left">6w5 sx/sp684 flve</div>
 </td>
 </table>
