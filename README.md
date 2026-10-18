@@ -2,12 +2,11 @@
 
 <table>
 <td>
-<img width="300" height="150" alt="abt" src="jkljlkjhjghj.png" />
+<img width="300" height="150" alt="wip" src="jkljlkjhjghj.png" />
 </br>
-<img width="300" height="150" alt="abt" src="uhjkhjk.png" />
+<img width="300" height="150" alt="wip" src="uhjkhjk.png" />
 </br>
-<div align="left">6w5 sx/sp684 flve</div>
-<div align="left">do not use tone tags on me pls</div>
+<div align="left">wip</div>
 </td>
 </table>
  
