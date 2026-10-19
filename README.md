@@ -2,11 +2,11 @@
 
 <table>
 <td>
-<img width="220" height="150" alt="info" src="infotxt.png" />
+  <img width="220" height="150" align="center" alt="info" src="infotxt.png" />
 </br>
-<img width="220" height="120"  src="divider.png" />
+<img width="290" height="120"  src="divider.png" />
 </br>
-<div align="left">wip</div>
+<div align="center">  ˢˣ/ₛ ₚ 6ʷ⁵82  dissociaboy demipronomial</div>
 </td>
 </table>
  
