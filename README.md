@@ -1,10 +1,10 @@
-<img width="441" height="671" align="left" src="banner.png" />
+<img width="441" height="671" align="left" alt="lem or dimitri | he/him | adult " src="banner.png" />
 
 <table>
 <td>
-<img width="220" height="150" alt="wip" src="infotxt.png" />
+<img width="220" height="150" alt="info" src="infotxt.png" />
 </br>
-<img width="120" height="120" alt="wip" src="uhjkhjk.png" />
+<img width="220" height="120"  src="divider.png" />
 </br>
 <div align="left">wip</div>
 </td>
