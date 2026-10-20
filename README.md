@@ -5,6 +5,7 @@
 <div align="center">  ᵖʷ/did && cptsd , trauma survivor</div>
 <div align="center">  <a href="https://www.tumblr.com/aemogai-archive/822436237451444224">dissociaboy</a> <a href="https://lgbtqia.wiki/wiki/Demipronominal">demipronominal</a> </div>
 <div align="center">  afk a lot so pls use ata to int!</div>
+<div align="center">  entire profile wip. tcc and endogenic systems DNI</div>
 </td>
 </table>
 
