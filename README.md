@@ -6,7 +6,7 @@
 </br>
 <img width="290" height="120"  src="divider.png" />
 </br>
-<div align="center">  ᵖʷ/cdd && cptsd </div>
+<div align="center">  ᵖʷ/did && cptsd </div>
 <div align="center">  <a href="https://www.tumblr.com/aemogai-archive/822436237451444224">dissociaboy</a> <a href="https://lgbtqia.wiki/wiki/Demipronominal">demipronominal</a> </div>
 </td>
 </table>
