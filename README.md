@@ -6,6 +6,7 @@
 <div align="center">  <a href="https://www.tumblr.com/aemogai-archive/822436237451444224">dissociaboy</a> <a href="https://lgbtqia.wiki/wiki/Demipronominal">demipronominal</a> </div>
 <div align="center">  afk a lot so pls use ata to int!</div>
  <div align="center">  straweberrylemonade canon ily viktor <3</div>
+   <div align="center"> endogenic systems dni i stfg i don't support you guys</div>
 <div align="center"></div>
 </td>
 </table>
