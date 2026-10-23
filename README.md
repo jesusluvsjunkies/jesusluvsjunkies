@@ -6,7 +6,7 @@
 <div align="center">  <a href="https://www.tumblr.com/aemogai-archive/822436237451444224">dissociaboy</a> <a href="https://lgbtqia.wiki/wiki/Demipronominal">demipronominal</a> </div>
 <div align="center">  afk a lot so pls use ata to int!</div>
  <div align="center">  straweberrylemonade canon ily viktor <3</div>
-   <div align="center"> very open about my beliefs (anti-endo & anti-radqueer) </div>
+   <div align="center"> anti-endo & anti-radqueer </div>
 <div align="center"></div>
 </td>
 </table>
