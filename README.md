@@ -1,16 +1,4 @@
-<img width="441" height="671" align="left" alt="lem or dimitri | he/him | adult " src="banner.png" />
-
-<table>
-<td>
-<div align="center">  ᵖʷ/did && cptsd , trauma survivor</div>
-<div align="center">  <a href="https://www.tumblr.com/aemogai-archive/822436237451444224">dissociaboy</a> <a href="https://lgbtqia.wiki/wiki/Demipronominal">demipronominal</a> </div>
-<div align="center">  afk a lot so pls use ata to int!</div>
- <div align="center">  ily viktor <3</div>
-<div align="center"> anti-endo & anti-radqueer </div>
-<div align="center"> endogenic systems dni </div>
-<div align="center"></div>
-</td>
-</table>
+<div align="center"> 
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=jesusluvsjunkies&color=2b2b2b&label=𝕍iewers&abbreviated=true)
 
@@ -19,3 +7,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1123063347592577194?borderRadius=0px&theme=dark&hideBadges=true&idleMessage=%E2%B8%BB%E3%80%80%C8%B5othing%20y%F0%9D%91%92t&bg=090909)](https://discordid.netlify.app/?id=1123063347592577194)
 
  
+</div>
