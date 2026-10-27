@@ -8,3 +8,9 @@
 
  
 </div>
+
+***
+
+wip, imagine this section is beautifully written with much information on did 🤩
+
+in the mean time have a look: https://drive.google.com/drive/folders/1-8VoM1ogXFrO5UPgB4VISZQ1REDP83W4?usp=drive_link
